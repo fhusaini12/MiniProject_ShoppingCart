@@ -1,0 +1,7 @@
+package com.company;
+
+public enum ItemList {
+    FRESH_MILK, YOGURT, CHEESE, BUTTER, FULL_CREAM_MILK
+    , APPLE, CHERRY, STRAWBERRY, WATAMELON, MANGO
+    , CHOCOBAR, KITKAT, CHIPS, CANDY, WAFER
+}
